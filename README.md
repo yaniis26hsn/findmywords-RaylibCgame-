@@ -1,8 +1,8 @@
 # 🔠 Word Puzzle Game
 
-![Game Screenshot](screenshot1.png)
-![Level Example](screenshot2.png) 
-![Gameplay](screenshot3.png)
+![wecamescr](screensh\wecamescr.jpg)
+![Level Example](screensh\inlevel.jpg) 
+![wrongansscr](screensh\wrong.jpg)
 
 A simple word game where you form words from given letters.
 
