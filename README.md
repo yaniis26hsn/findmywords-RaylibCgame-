@@ -1,7 +1,9 @@
 # 🔠 Word Puzzle Game
-
+THE OPENING SCREEN OVERVIEW :
 ![wecamescr](screensh/wecamescr.jpg)
+AN EXAMPLE OF A LEVEL :
 ![Level Example](screensh/inlevel.jpg) 
+AN EXAMPLE OF HOW THE GAME RESPONDS TO A WRONG ANSWER :
 ![wrongansscr](screensh/wrong.jpg)
 
 A simple word game where you form words from given letters.
